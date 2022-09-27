@@ -1822,6 +1822,12 @@ Please keep the list in alphabetical order by last name!
  trac="schilly"
  github="haraldschilly"/>
 <contributor
+ name="Steven Trogdon"
+ work="University of Minnesota, Duluth, USA"
+ location="Freedom, WY, USA"
+ trac="strogdon"
+ github="strogdon"/>
+<contributor
  name="Jack Schmidt"
  work="University of Kentucky"
  location="Lexington, Kentucky, USA"
